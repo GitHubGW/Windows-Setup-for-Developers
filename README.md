@@ -14,14 +14,14 @@
 ## ✅ Packages
 
 - [x] Windows 10
-- [x] WSL2
+- [x] WSL / WSL2
 - [x] Windows Terminal
 - [x] Ubuntu
 
 ## 🗃 Software
 
 - [x] PowerShell
-- [x] WSL2
+- [x] WSL / WSL2
 - [x] Windows Terminal
 - [x] Zsh / Oh My Zsh
 - [x] Powerlevel10K
